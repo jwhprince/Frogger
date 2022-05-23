@@ -1,4 +1,5 @@
 # Frogger
  
-retro game with Vanilla JS 
+Retro game with Vanilla JS 
 
+[Play](https://jwhprince.github.io/Frogger/)
