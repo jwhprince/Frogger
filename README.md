@@ -1,7 +1,4 @@
 # Frogger
  
-- collision detection
-- sprite animations
-- framerate optimization 
-- keyboard input
+retro game with Vanilla JS 
 
